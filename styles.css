@@ -1,0 +1,68 @@
+#text{
+
+    padding: 30px;
+   
+}
+
+#blog{
+     
+    border: 20px solid black;
+    text-align: center;
+    padding: 10px;
+    border-style: double;
+    border-style: dashed;
+    border-style: dotted;
+}
+
+h1{
+    color: brown;
+}
+
+p{
+    color: rgb(48, 9, 9);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+label{
+
+    color: blue;
+    font-weight: 900;
+}
+
+li{
+    color: yellowgreen;
+    font-weight: 900;
+}
+
+select{
+
+    background-color: aquamarine;
+    color: violet;
+    font-weight: 900;
+}
+
+#btn{
+    background-color: aquamarine;
+    color: violet;
+    font-weight: 900;
+}
+
+#second-blog{
+
+    
+    display: block;
+}
+img{
+
+   
+   width: 100px;
+    
+}
+.gtav{
+
+    background-color: crimson;
+    color: pink;
+    text-decoration: none;
+    font-weight: 900;
+}

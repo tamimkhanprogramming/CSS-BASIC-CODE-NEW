@@ -1,0 +1,28 @@
+.blog{
+    background-color: lightcoral;
+}
+
+h2{
+    text-decoration: underline;
+}
+#second-blog{
+    background-color: aqua;
+    /* display: none; */
+    
+}
+
+#minima{
+
+    color: red;
+    border: 2px solid black;
+    display: block;
+    margin: 10px 10px;
+    padding: 10px;
+    font-weight: 900;
+}
+
+li{
+    display: inline;
+    justify-content: space-between;
+    display: flex;
+}

@@ -1,0 +1,48 @@
+body{
+
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.card{
+
+    border: 2px solid salmon;
+    width: 300px;
+    padding: 10px 10px;
+    box-shadow: 10px 10px 10px rgb(105, 104, 104);
+    text-align: center;
+}
+
+.card img{
+
+    width: 100%;
+}
+
+.card-container{
+
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card-section{
+
+    align-items: center;
+}
+.card h3{
+
+    font-size: 2em;
+}
+
+.card button{
+
+    background-color: blanchedalmond;
+    font-weight: 800;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.card:hover{
+
+    background-color: cadetblue;
+}
